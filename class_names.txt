@@ -1,0 +1,14 @@
+apple
+banana
+cabbage
+carrot
+grapes
+kiwi
+lettuce
+mango
+onion
+orange
+pear
+potato
+spinach
+tomato
