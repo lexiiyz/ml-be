@@ -17,7 +17,7 @@ app.add_middleware(
 )
 
 print("Loading model...")
-MODEL_PATH = "model_effnet_cpu.h5"
+MODEL_PATH = "model_light_vgg.h5"
 model = tf.keras.models.load_model(MODEL_PATH)
 print("Model loaded.")
 
